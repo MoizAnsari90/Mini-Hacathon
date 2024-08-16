@@ -1,0 +1,7 @@
+
+
+
+
+
+
+const app = initializeApp(firebaseConfig);

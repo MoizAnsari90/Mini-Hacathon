@@ -21,14 +21,13 @@ h1{
     padding-top: 10%;
 }
 h6{
-    color: white;
-    padding-top: 3%;
+    
     
 }
+
 .ibox-box{
     width: 80px;
     height: 80px;
-    
     align-items: center;
     justify-content: center;
     display: flex;
@@ -117,7 +116,16 @@ button:hover{
 .blog-form button:hover {
     background-color: #0056b3;
 }
-
+a h6{
+    cursor: pointer;
+    margin-left: 100px;
+    color: white;
+    padding-top: 3%;
+}
+h2{
+    color: white;
+    padding-top: 30%;
+}
 
 
 
